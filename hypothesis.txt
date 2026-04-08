@@ -2,3 +2,6 @@ Familiarity with a story or topic may effect how someone processes it in auditor
 
 Further testing with other stories more culturally significant to other lanuage groups
 could potentially verify these outcomes. 
+
+
+One concern though, is that french data had more breaks betweem scans (twice as many) so more data is needed to confirm this idea.
